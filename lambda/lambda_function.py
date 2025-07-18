@@ -10,7 +10,7 @@ import json
 import re
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "OpenAI_API_Key
 
 model = "gpt-o3"
 
